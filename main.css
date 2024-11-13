@@ -1,1 +1,12 @@
 
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    display: grid;
+    grid-template-rows: 80px auto 60px; 
+    height: 100vh;
+}
+
